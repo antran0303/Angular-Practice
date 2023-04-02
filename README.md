@@ -9,10 +9,11 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 
-*** Bạn cần cài đặt Nodejs
-*** cd vào thư mục chứa source code
-*** Vào terminal của VScode chạy lệnh: npm install để cài những thư viện cần thiết.
-*** Chạy lệnh npm start để chạy chương trình.
-*** Sau đó vào trình duyệt nhập: http://localhost:4200 giao diện sẽ hiển thị.
+
+* Bạn cần cài đặt Nodejs
+* cd vào thư mục chứa source code
+* Vào terminal của VScode chạy lệnh: npm install để cài những thư viện cần thiết.
+* Chạy lệnh npm start để chạy chương trình.
+* Sau đó vào trình duyệt nhập: http://localhost:4200 giao diện sẽ hiển thị.
 
 
